@@ -3,6 +3,6 @@
 currently learning: **C++**
 ## LuaU - 1 year experience
 ## JS - Just Learning
-## Python - 3 yeats experience
+## Python - 3 years experience
 
 currently known for creating AetherX
