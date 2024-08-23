@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-currently learning: **C++**
+currently learning: **asm**
 ## LuaU - 1 year experience
-## JS - Just Learning
+## C++ - Just Learning
 ## Python - 3 years experience
 
-currently known for creating AetherX
+currently known for creating nothingos
